@@ -14,7 +14,7 @@ import {
   USER_WRONG_CREDENTIALS,
 } from "../ActionTypes/userActionTypes";
 
-const API = `http://localhost:3000`;
+const API = `https://job-portal-backend-b5mj.onrender.com`;
 //const API = API_URL;
 
 // > signup Action

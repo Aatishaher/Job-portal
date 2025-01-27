@@ -19,7 +19,7 @@ import {
 } from "../ActionTypes/jobActionTypes";
 import { APPLY_JOBLIST_REST } from "../ActionTypes/JobAppliedTypes";
 
-const API = `http://localhost:3000`;
+const API = `https://job-portal-backend-b5mj.onrender.com`;
 
 export const jobPostAction = (formData, Toaster) => async (dispatch) => {
   // const { company, position, location, contract } = formData;
