@@ -17,7 +17,7 @@ import {
   DELETE_JOBLIST_REST,
 } from "../ActionTypes/JobAppliedTypes";
 
-const API = `https://job-portal-backend-b5mj.onrender.com`;
+const API = `https://job-portal-backend-b5mj.onrender.com/job`;
 
 //> Post-Create
 
